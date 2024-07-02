@@ -16,12 +16,11 @@ html, body{
     justify-content: space-evenly;
 }
 .amazon_logo{
-   height:50px;
+   height:40px;
    width:100px;
 }
 .logo{
     height: 50px;
-    width: 100%;
     background-image : url("amazon_logo.png");
     background-size: cover;
 }
