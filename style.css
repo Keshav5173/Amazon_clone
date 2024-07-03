@@ -18,7 +18,9 @@ html, body{
 }
 .amazon_logo{
    height:50px;
-   width:100px;
+   width:120px;
+   display: flex;
+   align-items: center;
 }
 .logo{
     height: 50px;
